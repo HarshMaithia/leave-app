@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/leave-app/static/css/main.d6e2a29f.chunk.css",
+    "main.js": "/leave-app/static/js/main.8b827524.chunk.js",
+    "main.js.map": "/leave-app/static/js/main.8b827524.chunk.js.map",
+    "runtime-main.js": "/leave-app/static/js/runtime-main.387f7967.js",
+    "runtime-main.js.map": "/leave-app/static/js/runtime-main.387f7967.js.map",
+    "static/css/2.150d169a.chunk.css": "/leave-app/static/css/2.150d169a.chunk.css",
+    "static/js/2.ab769f6b.chunk.js": "/leave-app/static/js/2.ab769f6b.chunk.js",
+    "static/js/2.ab769f6b.chunk.js.map": "/leave-app/static/js/2.ab769f6b.chunk.js.map",
+    "static/js/3.953270c4.chunk.js": "/leave-app/static/js/3.953270c4.chunk.js",
+    "static/js/3.953270c4.chunk.js.map": "/leave-app/static/js/3.953270c4.chunk.js.map",
+    "index.html": "/leave-app/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/leave-app/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d6e2a29f.chunk.css.map": "/leave-app/static/css/main.d6e2a29f.chunk.css.map",
+    "static/js/2.ab769f6b.chunk.js.LICENSE.txt": "/leave-app/static/js/2.ab769f6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.387f7967.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ab769f6b.chunk.js",
+    "static/css/main.d6e2a29f.chunk.css",
+    "static/js/main.8b827524.chunk.js"
+  ]
+}
